@@ -9,7 +9,7 @@
 # Possibilities
 * PWA
 * Remove To DO
-* Tick To Do
+* completed To Do
 * Added DateTime
 * End DateTime
 
