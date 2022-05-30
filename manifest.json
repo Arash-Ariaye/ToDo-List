@@ -1,0 +1,51 @@
+{
+    "name": "ToDo List",
+    "short_name": "ToDoL",
+    "start_url": "/",
+    "background_color": "#6777ef",
+    "description": "لیست کارهایی که دارم.",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [{
+            "src": "icon/todo_16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/todo_24.png",
+            "sizes": "24x24",
+            "type": "image/png",
+            "purpose": "any"
+        },{
+            "src": "icon/todo_32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/todo_64.png",
+            "sizes": "64x64",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/todo_128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon/todo_256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },{
+            "src": "icon/todo_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+
+    ]
+}
